@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/news-explorer-frontend/static/css/main.1acdc8e1.chunk.css",
+    "main.js": "/news-explorer-frontend/static/js/main.a1d37cf1.chunk.js",
+    "main.js.map": "/news-explorer-frontend/static/js/main.a1d37cf1.chunk.js.map",
+    "runtime-main.js": "/news-explorer-frontend/static/js/runtime-main.d32c2e89.js",
+    "runtime-main.js.map": "/news-explorer-frontend/static/js/runtime-main.d32c2e89.js.map",
+    "static/js/2.71094583.chunk.js": "/news-explorer-frontend/static/js/2.71094583.chunk.js",
+    "static/js/2.71094583.chunk.js.map": "/news-explorer-frontend/static/js/2.71094583.chunk.js.map",
+    "static/js/3.28d4a5c3.chunk.js": "/news-explorer-frontend/static/js/3.28d4a5c3.chunk.js",
+    "static/js/3.28d4a5c3.chunk.js.map": "/news-explorer-frontend/static/js/3.28d4a5c3.chunk.js.map",
+    "index.html": "/news-explorer-frontend/index.html",
+    "static/css/main.1acdc8e1.chunk.css.map": "/news-explorer-frontend/static/css/main.1acdc8e1.chunk.css.map",
+    "static/js/2.71094583.chunk.js.LICENSE.txt": "/news-explorer-frontend/static/js/2.71094583.chunk.js.LICENSE.txt",
+    "static/media/author-image.8600ac89.jpg": "/news-explorer-frontend/static/media/author-image.8600ac89.jpg",
+    "static/media/PopupWithForm.css": "/news-explorer-frontend/static/media/close-icon.dbc5a84f.svg",
+    "static/media/facebook-icon.20ccdb52.svg": "/news-explorer-frontend/static/media/facebook-icon.20ccdb52.svg",
+    "static/media/github-icon.6da6b782.svg": "/news-explorer-frontend/static/media/github-icon.6da6b782.svg",
+    "static/media/index.css": "/news-explorer-frontend/static/media/source-sans-pro-400.33e6b01f.woff",
+    "static/media/menu-close-icon.9981be0f.svg": "/news-explorer-frontend/static/media/menu-close-icon.9981be0f.svg",
+    "static/media/menu-hamburger-icon_type_black.f69aaff1.svg": "/news-explorer-frontend/static/media/menu-hamburger-icon_type_black.f69aaff1.svg",
+    "static/media/menu-hamburger-icon_type_white.e36517e5.svg": "/news-explorer-frontend/static/media/menu-hamburger-icon_type_white.e36517e5.svg",
+    "static/media/menu-logout-icon_type_black.c7110248.svg": "/news-explorer-frontend/static/media/menu-logout-icon_type_black.c7110248.svg",
+    "static/media/menu-logout-icon_type_white.e6a13ee8.svg": "/news-explorer-frontend/static/media/menu-logout-icon_type_white.e6a13ee8.svg",
+    "static/media/no-results-image.5661906d.svg": "/news-explorer-frontend/static/media/no-results-image.5661906d.svg",
+    "static/media/NewsCard.css": "/news-explorer-frontend/static/media/trash-icon-grey.2f4e9b82.svg",
+    "static/media/SearchHero.css": "/news-explorer-frontend/static/media/search-hero-background.7080f7bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d32c2e89.js",
+    "static/js/2.71094583.chunk.js",
+    "static/css/main.1acdc8e1.chunk.css",
+    "static/js/main.a1d37cf1.chunk.js"
+  ]
+}
