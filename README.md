@@ -23,6 +23,7 @@
 ### ➡️ [GitHub Link](https://github.com/cjmaret/news-explorer-frontend)
 ### ➡️ [Link to News Explorer Back End](https://github.com/cjmaret/news-explorer-api)
 ### ➡️ [Link to News Explorer Live Site](https://news-explorer-site.netlify.app/)
+### ➡️ [API](https://api.aloha.students.nomoreparties.site)
 
 ---
 
