@@ -28,7 +28,10 @@
 ---
 
 ## ✨ Demo
-![news-ex-homepage](https://user-images.githubusercontent.com/77926563/147211537-04034d29-b1b7-410f-9d2a-f0ed0248f5f5.png)
-![news-ex-saved](https://user-images.githubusercontent.com/77926563/147211670-59a4cf9e-9005-487a-b89b-13d905120c78.png)
+### Homepage
+![news-ex-homepage](https://user-images.githubusercontent.com/77926563/147217832-85671225-224b-42e8-86aa-6b5ba383fc84.png)
 
+---
 
+### Saved Articles
+![news-ex-saved](https://user-images.githubusercontent.com/77926563/147217849-46dcecac-1f03-41b6-aab0-ca9cbc7ad78c.png)
