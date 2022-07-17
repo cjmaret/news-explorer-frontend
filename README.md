@@ -1,4 +1,4 @@
-# News Explorer Front End
+# 📰News Explorer Front End📰
 
 ## Project Description / Functionality: 
 - This part of the project serves as the front-end for News Explorer, a website where users can search and save news articles.
